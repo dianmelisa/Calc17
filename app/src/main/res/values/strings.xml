@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calc17</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="optTambah">+</string>
+    <string name="optKurang">-</string>
+    <string name="optKali">*</string>
+    <string name="optBagi">/</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
